@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+
+.stopwatch {
+	font-size: 3em;
+	margin-top: 50px;
+}
+
+.buttons {
+	margin-top: 20px;
+}
+
+#timer {
+	text-align: center;
+  font-size: 70px;
+  background-color: black;
+  color: white;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+button {
+	padding: 10px 20px;
+	margin: 0 10px;
+	font-size: 1.2em;
+	border: none;
+	background-color: #4CAF50;
+	color: white;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #3e8e41;
+}
+
